@@ -772,7 +772,7 @@
     "reset": "Réinitialiser",
     "add_channel": "Ajouter un Salon",
     "need_setup": "Configuration requise",
-    "message": "Message",
+    "message": "**{0}** diffuse maintenant ! 🎬\nVenez nous rejoindre maintenant et ne manquez pas les moments croustillants! 🔥\n{1}",
     "embed": "Embed",
     "daily_onboarding_head": "Doublez vos récompenses!",
     "daily_onboarding_text": "Construisez votre série et doublez vos récompenses en réclamant votre récompense quotidienne tous les jours !",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Élevez les messages avec des boutons et des menus personnalisables pour des réponses personnalisées !",
     "responses_onboarding_title": "Éléments de réponse",
     "select_menu_limit_message": "Le nombre maximum d'options est de 25. Vous disposez de {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }

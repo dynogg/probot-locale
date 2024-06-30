@@ -47,7 +47,7 @@
     "title_description": "내 프로필 제목을 변경해요.",
     "reset_description": "특정 또는 모든 멤버의 채팅/음성/초대 경험치 점수를 초기화해요.",
     "rep_description": "멤버에게 평판을 줘요. 24시간마다 사용할 수 있어요.",
-    "daily_description": "일일 급여를 받아요.",
+    "daily_description": "일일 보상 링크를 얻고, 언제 다시 수령할 수 있을지 확인해요.",
     "vip_description": "프리미엄 봇의 정보를 확인해요.",
     "ping_description": "봇의 응답 시간을 확인해요.",
     "temp_description": "임시 채널을 생성해요",
@@ -722,7 +722,7 @@
     "stats_3_months": "최근 3개월 (프리미엄)",
     "stats_6_months": "최근 6개월 (프리미엄)",
     "stats_1_year": "최근 1년 (프리미엄)",
-    "setlevel_description": "멤버의 레벨을 설정해요",
+    "setlevel_description": "사용자의 레벨을 설정해요",
     "rr_type": "반응 유형",
     "rr_buttons": "버튼",
     "rr_select_menu": "선택 메뉴",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "개별 응답용 맞춤 버튼과 메뉴로 메시지를 더 꾸며보세요!",
     "responses_onboarding_title": "응답 요소",
     "select_menu_limit_message": "옵션의 최대 개수는 25개예요. 현재 옵션 {0}개가 있어요",
-    "error_upload_size": "사진 크기가 한도를 초과해요. 사진 크기를 줄여보세요."
+    "error_upload_size": "사진 크기가 한도를 초과해요. 사진 크기를 줄여보세요.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
